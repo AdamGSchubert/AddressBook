@@ -1,0 +1,16 @@
+C:\Users\adamg\workspace\csharp\addressbook\addressBook\obj\Debug\net5.0\addressBook.csproj.AssemblyReference.cache
+C:\Users\adamg\workspace\csharp\addressbook\addressBook\obj\Debug\net5.0\addressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamg\workspace\csharp\addressbook\addressBook\obj\Debug\net5.0\addressBook.AssemblyInfoInputs.cache
+C:\Users\adamg\workspace\csharp\addressbook\addressBook\obj\Debug\net5.0\addressBook.AssemblyInfo.cs
+C:\Users\adamg\workspace\csharp\addressbook\addressBook\obj\Debug\net5.0\addressBook.csproj.CoreCompileInputs.cache
+C:\Users\adamg\workspace\csharp\addressbook\addressBook\bin\Debug\net5.0\addressBook.exe
+C:\Users\adamg\workspace\csharp\addressbook\addressBook\bin\Debug\net5.0\addressBook.deps.json
+C:\Users\adamg\workspace\csharp\addressbook\addressBook\bin\Debug\net5.0\addressBook.runtimeconfig.json
+C:\Users\adamg\workspace\csharp\addressbook\addressBook\bin\Debug\net5.0\addressBook.runtimeconfig.dev.json
+C:\Users\adamg\workspace\csharp\addressbook\addressBook\bin\Debug\net5.0\addressBook.dll
+C:\Users\adamg\workspace\csharp\addressbook\addressBook\bin\Debug\net5.0\ref\addressBook.dll
+C:\Users\adamg\workspace\csharp\addressbook\addressBook\bin\Debug\net5.0\addressBook.pdb
+C:\Users\adamg\workspace\csharp\addressbook\addressBook\obj\Debug\net5.0\addressBook.dll
+C:\Users\adamg\workspace\csharp\addressbook\addressBook\obj\Debug\net5.0\ref\addressBook.dll
+C:\Users\adamg\workspace\csharp\addressbook\addressBook\obj\Debug\net5.0\addressBook.pdb
+C:\Users\adamg\workspace\csharp\addressbook\addressBook\obj\Debug\net5.0\addressBook.genruntimeconfig.cache
